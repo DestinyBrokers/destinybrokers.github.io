@@ -1,35 +1,33 @@
-#
-# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
-#
-# Configuration: Add to _config.yml
-# locale: "en-US"  [YOUR PREFERRED LOCALE]
-#
-# How to use:
-# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
-
-# English (default)
-# -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: We're Destiny Brokers Group
+    text: Dedicated to your Success 🌟
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "We provide you with the best DEALS to create your own DESTINY!🌟"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Sports"
+        desc: "Specializing in uncovering and enhancing athletic potential, we provide personalized consultancy services tailored to unique journeys. Through strategic guidance and an extensive network, we empower individuals to surpass athletic goals and redefine success."
+        icon: fas fa-running
+      - title: "Entertainment"
+        desc: "Explore limitless possibilities in entertainment with our passion for discovering and magnifying creative talents. Whether emerging or seasoned, our consultancy services nurture artistic vision and propel careers with innovative strategies and industry expertise."
+        icon: fas fa-theater-masks
+      - title: "Culture"
+        desc: "Fostering cultural exploration and artistic expression, our consultancy services cater to individuals passionate about enriching cultural and creative endeavors. Amplify voices and make a meaningful impact with strategic guidance and collaborative opportunities."
+        icon: fas fa-globe
+      - title: "Mentoring"
+        desc: "Discover true potential through personalized guidance and support for personal and professional endeavors. Navigate career choices, personal development, and leadership skills with committed mentors."
+        icon: fas fa-users
+      - title: "Fitness"
+        desc: "Empower individuals to prioritize health and wellness through personalized fitness solutions. Enhance physical fitness, achieve weight management goals, and adopt a balanced lifestyle with tailored programs and motivational support."
+        icon: fas fa-dumbbell
+      - title: "Nutrition"
+        desc: "Explore the transformative power of nutrition with personalized guidance for optimal health and vitality. Improve dietary habits, manage nutritional deficiencies, and enhance athletic performance with practical strategies and ongoing support."
+        icon: fas fa-apple-alt
 
   portfolio:
     title: "Portfolio"
@@ -41,37 +39,34 @@ en: &DEFAULT_EN
     title: "Timeline"
     text: "Lorem ipsum timeline"
     section: timeline
-    # left is the default
-    #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "1993-1995"
+        desc: "Pending"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "The Consultancy Agency is Born"
+        year: "2021"
+        desc: "In January 2021, <strong>Destiny Brokers Group</strong> was founded."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "First Signing"
+        year: "2022"
+        desc: "Pending"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Pending"
+        year: "2024"
+        desc: "Pending"
         image: assets/img/timeline/4.jpg
         alt:
-        # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
+    title: "Who We Are"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "At Destiny Brokers Group, we are committed to empowering individuals to thrive in their personal and professional journeys. Our dedicated team of experts leverages extensive experience and innovative strategies to propel our clients towards success. Since our inception, we have been pioneers in guiding individuals to achieve their goals, specializing in personalized consultancy services that harness their unique talents and aspirations. Our mission is to ignite personal growth and facilitate transformative experiences, ensuring each individual reaches new heights of achievement and fulfillment."
     section: about
 
   clients:
@@ -94,50 +89,39 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Dedicated to your success."
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Élie Junior Akobeto"
+        role: "Director"
+        image: assets/img/team/ako.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://instagram.com/akojr10
+            icon: fab fa-instagram
+          - url: https://facebook.com/akojr10off
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://uk.linkedin.com/in/%C3%A9lie-junior-akobeto-5b972b95?trk=public_profile_browsemap
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Brandon Diau"
+        role: "Director"
+        image: assets/img/team/Brandon.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          - url: https://instagram.com/brandao4
+            icon: fab fa-instagram
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://uk.linkedin.com/in/brandon-diau-271b421a9?trk=public_profile_browsemap-profile
             icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Email info@destinybrokers.com or Fill the form below:"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
+    phone: "Phone Number*"
     phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
@@ -147,15 +131,13 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/destinybrokers
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://facebook.com/destinybrokers
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/company/destiny-brokers-group/
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://instagram.com/destinybrokers
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
@@ -170,25 +152,34 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
-    button: Ver más
+    title: Somos Destiny Brokers Group
+    text: Dedicados a tu éxito 🌟
+    button: Cuéntame más
     buttonlink: "#servicios"
 
   services:
     title: "Servicios"
-    text: "Lorem ipsum"
+    text: "¡Te ofrecemos las mejores OFERTAS para crear tu propio DESTINO!🌟"
     section: servicios
     list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
+      - title: "Deportes"
+        desc: "Especializándonos en descubrir y mejorar el potencial atlético, brindamos servicios de consultoría personalizados adaptados a trayectorias únicas. A través de orientación estratégica y una red extensa, empoderamos a las personas para superar metas atléticas y redefinir el éxito."
+        icon: fas fa-running
+      - title: "Entretenimiento"
+        desc: "Explora posibilidades ilimitadas en entretenimiento con nuestra pasión por descubrir y magnificar talentos creativos. Ya sean emergentes o experimentados, nuestros servicios de consultoría nutren la visión artística e impulsan carreras con estrategias innovadoras y experiencia en la industria."
+        icon: fas fa-theater-masks
+      - title: "Cultura"
+        desc: "Fomentando la exploración cultural y la expresión artística, nuestros servicios de consultoría están dirigidos a personas apasionadas por enriquecer esfuerzos culturales y creativos. Amplifica voces y genera un impacto significativo con orientación estratégica y oportunidades de colaboración."
+        icon: fas fa-globe
+      - title: "Mentoría"
+        desc: "Descubre tu verdadero potencial a través de orientación personalizada y apoyo para emprendimientos personales y profesionales. Navega elecciones de carrera, desarrollo personal y habilidades de liderazgo con mentores comprometidos."
+        icon: fas fa-users
+      - title: "Fitness"
+        desc: "Empodera a las personas para priorizar la salud y el bienestar a través de soluciones de fitness personalizadas. Mejora la condición física, logra metas de control de peso y adopta un estilo de vida equilibrado con programas personalizados y apoyo motivacional."
+        icon: fas fa-dumbbell
+      - title: "Nutrición"
+        desc: "Explora el poder transformador de la nutrición con orientación personalizada para una salud óptima y vitalidad. Mejora los hábitos alimenticios, maneja deficiencias nutricionales y mejora el rendimiento atlético con estrategias prácticas y apoyo continuo."
+        icon: fas fa-apple-alt
 
   portfolio:
     title: "Portafolio"
@@ -200,37 +191,34 @@ es: &DEFAULT_ES
     title: "Cronología"
     text: "Lorem ipsum timeline"
     section: cronologia
-    # left is the default
-    #start_align: "left"
     events:
-      - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Nuestros Humildes Comienzos"
+        year: "1993-1995"
+        desc: "Pending"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "La Agencia de Consultoría Nace"
+        year: "2021"
+        desc: "En enero de 2021, <strong>Destiny Brokers Group</strong> fue fundado."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+      - title: "Primera Firma"
+        year: "2022"
+        desc: "Pending"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
+      - title: "Pendiente"
+        year: "2024"
+        desc: "Pending"
         image: assets/img/timeline/4.jpg
         alt:
-        # you can enforce the alignment
         align: right
-    end: "¡Se parte <br> de Nuestra <br> Historia!"
+    end: "Sé Parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Sobre nosotros"
+    title: "Quiénes Somos"
     text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "En Destiny Brokers Group, estamos comprometidos con empoderar a las personas para que prosperen en sus trayectorias personales y profesionales. Nuestro equipo dedicado de expertos aprovecha una amplia experiencia y estrategias innovadoras para impulsar a nuestros clientes hacia el éxito. Desde nuestra creación, hemos sido pioneros en guiar a las personas para que logren sus metas, especializándonos en servicios de consultoría personalizados que aprovechan sus talentos y aspiraciones únicos. Nuestra misión es fomentar el crecimiento personal y facilitar experiencias transformadoras, asegurando que cada individuo alcance nuevas alturas de logro y realización."
     section: nosotros
 
   clients:
@@ -253,44 +241,33 @@ es: &DEFAULT_ES
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Dedicado a tu éxito."
     section: equipo
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Élie Junior Akobeto"
+        role: "Director"
+        image: assets/img/team/ako.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://instagram.com/akojr10
+            icon: fab fa-instagram
+          - url: https://facebook.com/akojr10off
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://uk.linkedin.com/in/%C3%A9lie-junior-akobeto-5b972b95?trk=public_profile_browsemap
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Brandon Diau"
+        role: "Director"
+        image: assets/img/team/Brandon.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          - url: https://instagram.com/brandao4
+            icon: fab fa-instagram
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://uk.linkedin.com/in/brandon-diau-271b421a9?trk=public_profile_browsemap-profile
             icon: fab fa-linkedin-in
 
   contact:
     title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
+    text: "Email info@destinybrokers.com o llene el siguiente formulario:"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
@@ -306,15 +283,13 @@ es: &DEFAULT_ES
   footer:
     legal: "Política de Privacidad"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/destinybrokers
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://facebook.com/destinybrokers
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/company/destiny-brokers-group/
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://instagram.com/destinybrokers
         icon: "fab fa-instagram"
 es-ES:
   <<: *DEFAULT_ES
