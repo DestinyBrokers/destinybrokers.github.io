@@ -31,7 +31,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Explore some of our successful projects and see how we help our clients achieve their goals."
     section: portfolio
     closebutton: "Close Project"
 
@@ -108,8 +108,8 @@ en: &DEFAULT_EN
         social:
           - url: https://instagram.com/brandao4
             icon: fab fa-instagram
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://tiktok.com/brandao4
+            icon: fab fa-tiktok
           - url: https://uk.linkedin.com/in/brandon-diau-271b421a9?trk=public_profile_browsemap-profile
             icon: fab fa-linkedin-in
 
@@ -260,8 +260,8 @@ es: &DEFAULT_ES
         social:
           - url: https://instagram.com/brandao4
             icon: fab fa-instagram
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://tiktok.com/brandao4
+            icon: fab fa-tiktok
           - url: https://uk.linkedin.com/in/brandon-diau-271b421a9?trk=public_profile_browsemap-profile
             icon: fab fa-linkedin-in
 

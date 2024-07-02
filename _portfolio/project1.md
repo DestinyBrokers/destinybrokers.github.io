@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Lancelot Pollard
+subtitle: Wonderkid Pollard signs for Rangers Football Club
+image: assets/img/portfolio/pollard.jpg
+alt: Wonderkid Lancelot Pollard's signing at Rangers Football Club in Scotland
 
 caption:
   title: Threads
   subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/pollard-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+With interests from the likes of Manchester United Football Club and Liverpool Football Club, **Wonderkid Lancelot Pollard** put pen to paper with Rangers Football Club in Scotland, having recently played for Aberdeen Football Club.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: May 2022
+- Client: Lancelot Pollard
+- Category: Football
 
