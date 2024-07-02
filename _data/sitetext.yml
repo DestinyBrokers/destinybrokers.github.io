@@ -183,7 +183,7 @@ es: &DEFAULT_ES
 
   portfolio:
     title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Explora algunos de nuestros proyectos exitosos y observa cómo ayudamos a nuestros clientes a alcanzar sus metas."
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
