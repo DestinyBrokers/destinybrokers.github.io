@@ -35,33 +35,33 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-  # timeline:
-  #   title: "Timeline"
-  #   text: "Lorem ipsum timeline"
-  #   section: timeline
-  #   events:
-  #     - title: "Our Humble Beginnings"
-  #       year: "1993-1995"
-  #       desc: "Pending"
-  #       image: assets/img/timeline/1.jpg
-  #       alt:
-  #     - title: "The Consultancy Agency is Born"
-  #       year: "2021"
-  #       desc: "In January 2021, <strong>Destiny Brokers Group</strong> was founded."
-  #       image: assets/img/timeline/2.jpg
-  #       alt:
-  #     - title: "First Signing"
-  #       year: "2022"
-  #       desc: "Pending"
-  #       image: assets/img/timeline/3.jpg
-  #       alt: image alt text
-  #     - title: "Pending"
-  #       year: "2024"
-  #       desc: "Pending"
-  #       image: assets/img/timeline/4.jpg
-  #       alt:
-  #       align: right
-  #   end: "Be Part <br> of Our <br> Story!"
+  timeline:
+    title: "Timeline"
+    text: "Lorem ipsum timeline"
+    section: timeline
+    events:
+      - title: "Our Humble Beginnings"
+        year: "1993-1995"
+        desc: "Pending"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "The Consultancy Agency is Born"
+        year: "2021"
+        desc: "In January 2021, <strong>Destiny Brokers Group</strong> was founded."
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "First Signing"
+        year: "2022"
+        desc: "Pending"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Pending"
+        year: "2024"
+        desc: "Pending"
+        image: assets/img/timeline/4.jpg
+        alt:
+        align: right
+    end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "Who We Are"
@@ -187,33 +187,33 @@ es: &DEFAULT_ES
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
-  # timeline:
-  #   title: "Cronología"
-  #   text: "Lorem ipsum timeline"
-  #   section: cronologia
-  #   events:
-  #     - title: "Nuestros Humildes Comienzos"
-  #       year: "1993-1995"
-  #       desc: "Pending"
-  #       image: assets/img/timeline/1.jpg
-  #       alt:
-  #     - title: "La Agencia de Consultoría Nace"
-  #       year: "2021"
-  #       desc: "En enero de 2021, <strong>Destiny Brokers Group</strong> fue fundado."
-  #       image: assets/img/timeline/2.jpg
-  #       alt:
-  #     - title: "Primera Firma"
-  #       year: "2022"
-  #       desc: "Pending"
-  #       image: assets/img/timeline/3.jpg
-  #       alt: image alt text
-  #     - title: "Pendiente"
-  #       year: "2024"
-  #       desc: "Pending"
-  #       image: assets/img/timeline/4.jpg
-  #       alt:
-  #       align: right
-  #   end: "Sé Parte <br> de Nuestra <br> Historia!"
+  timeline:
+    title: "Cronología"
+    text: "Lorem ipsum timeline"
+    section: cronologia
+    events:
+      - title: "Nuestros Humildes Comienzos"
+        year: "1993-1995"
+        desc: "Pending"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "La Agencia de Consultoría Nace"
+        year: "2021"
+        desc: "En enero de 2021, <strong>Destiny Brokers Group</strong> fue fundado."
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Primera Firma"
+        year: "2022"
+        desc: "Pending"
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Pendiente"
+        year: "2024"
+        desc: "Pending"
+        image: assets/img/timeline/4.jpg
+        alt:
+        align: right
+    end: "Sé Parte <br> de Nuestra <br> Historia!"
 
   about:
     title: "Quiénes Somos"
