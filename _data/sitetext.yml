@@ -108,7 +108,7 @@ en: &DEFAULT_EN
         social:
           - url: https://instagram.com/brandao4
             icon: fab fa-instagram
-          - url: https://tiktok.com/brandao4
+          - url: https://tiktok.com/@brandao4
             icon: fab fa-openid
           - url: https://uk.linkedin.com/in/brandon-diau-271b421a9?trk=public_profile_browsemap-profile
             icon: fab fa-linkedin-in
