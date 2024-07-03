@@ -109,7 +109,7 @@ en: &DEFAULT_EN
           - url: https://instagram.com/brandao4
             icon: fab fa-instagram
           - url: https://tiktok.com/@brandao4
-            icon: fab fa-openid
+            icon: fab fa-tiktok
           - url: https://uk.linkedin.com/in/brandon-diau-271b421a9?trk=public_profile_browsemap-profile
             icon: fab fa-linkedin-in
 
@@ -261,7 +261,7 @@ es: &DEFAULT_ES
           - url: https://instagram.com/brandao4
             icon: fab fa-instagram
           - url: https://tiktok.com/@brandao4
-            icon: fab fa-openid
+            icon: fab fa-tiktok
           - url: https://uk.linkedin.com/in/brandon-diau-271b421a9?trk=public_profile_browsemap-profile
             icon: fab fa-linkedin-in
 
