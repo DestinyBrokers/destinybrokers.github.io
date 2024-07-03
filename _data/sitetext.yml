@@ -2,8 +2,8 @@ en: &DEFAULT_EN
   header:
     title: We're Destiny Brokers Group
     text: Dedicated to your Success 🌟
-    # button: Tell Me More
-    # buttonlink: "#services"
+    button: Book a Consultation
+    buttonlink: "https://calendly.com/destinybrokers/30min"
 
   services:
     title: "Services"
@@ -154,8 +154,8 @@ es: &DEFAULT_ES
   header:
     title: Somos Destiny Brokers Group
     text: Dedicados a tu éxito 🌟
-    # button: Cuéntame más
-    # buttonlink: "#servicios"
+    button: Reserva una Consulta
+    buttonlink: "https://calendly.com/destinybrokers/30min"
 
   services:
     title: "Servicios"
