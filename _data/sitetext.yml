@@ -69,23 +69,23 @@ en: &DEFAULT_EN
     body: "At Destiny Brokers Group, we are committed to empowering individuals to thrive in their personal and professional journeys. Our dedicated team of experts leverages extensive experience and innovative strategies to propel our clients towards success. Since our inception, we have been pioneers in guiding individuals to achieve their goals, specializing in personalized consultancy services that harness their unique talents and aspirations. Our mission is to ignite personal growth and facilitate transformative experiences, ensuring each individual reaches new heights of achievement and fulfillment."
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  # clients:
+  #   section: clients
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: ""
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: ""
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: ""
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: ""
+  #       logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
@@ -221,23 +221,23 @@ es: &DEFAULT_ES
     body: "En Destiny Brokers Group, estamos comprometidos con empoderar a las personas para que prosperen en sus trayectorias personales y profesionales. Nuestro equipo dedicado de expertos aprovecha una amplia experiencia y estrategias innovadoras para impulsar a nuestros clientes hacia el éxito. Desde nuestra creación, hemos sido pioneros en guiar a las personas para que logren sus metas, especializándonos en servicios de consultoría personalizados que aprovechan sus talentos y aspiraciones únicos. Nuestra misión es fomentar el crecimiento personal y facilitar experiencias transformadoras, asegurando que cada individuo alcance nuevas alturas de logro y realización."
     section: nosotros
 
-  clients:
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  # clients:
+  #   section: clientes
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: ""
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: ""
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: ""
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: ""
+  #       logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"

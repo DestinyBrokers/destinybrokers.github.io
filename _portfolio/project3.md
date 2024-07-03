@@ -1,18 +1,17 @@
----
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
-alt: 
+<!-- ---
+title: Lancelot Pollard
+subtitle: Wonderkid Pollard signs for Rangers Football Club
+image: assets/img/portfolio/Pollard.jpg
+alt: Wonderkid Lancelot Pollard's signing at Rangers Football Club in Scotland
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Wonderkid signs for Rangers FC
+  subtitle: Football
+  thumbnail: assets/img/portfolio/Pollard-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+With interests from the likes of Manchester United Football Club and Liverpool Football Club, **Wonderkid Lancelot Pollard** put pen to paper with Rangers Football Club in Scotland, having recently played for Aberdeen Football Club.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
-
+- Date: May 2022
+- Client: Lancelot Pollard
+- Category: Football -->
