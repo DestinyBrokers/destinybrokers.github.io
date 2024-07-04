@@ -120,6 +120,22 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://uk.linkedin.com/in/dev-kumar-parmar-74351314
             icon: fab fa-linkedin-in
+      - name: "Dr Daniel Berdejo-del-Fresno"
+        role: "Futsal & Sports Scientist Expert"
+        image: assets/img/team/Dani.jpg
+        social:
+          - url: https://instagram.com/simplysport_dbf
+            icon: fab fa-instagram
+          - url: https://www.linkedin.com/in/daniel-berdejo-del-fresno
+            icon: fab fa-linkedin-in
+      - name: "Patrick Whelan"
+        role: "Basketball Expert"
+        image: assets/img/team/Pat.jpg
+        social:
+          - url: https://www.instagram.com/p_whelan1two
+            icon: fab fa-instagram
+          - url: https://x.com/p_whelan1two
+            icon: fab fa-twitter
 
   contact:
     title: "Contact Us"
@@ -247,31 +263,55 @@ es: &DEFAULT_ES
   #       url: ""
   #       logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Dedicado a tu éxito."
-    section: equipo
-    people:
-      - name: "Élie Junior Akobeto"
-        role: "Director"
-        image: assets/img/team/ako.jpg
-        social:
-          - url: https://instagram.com/akojr10
-            icon: fab fa-instagram
-          - url: https://facebook.com/akojr10off
-            icon: fab fa-facebook-f
-          - url: https://uk.linkedin.com/in/%C3%A9lie-junior-akobeto-5b972b95?trk=public_profile_browsemap
-            icon: fab fa-linkedin-in
-      - name: "Brandon Diau"
-        role: "Director"
-        image: assets/img/team/Brandon.jpg
-        social:
-          - url: https://instagram.com/brandao4
-            icon: fab fa-instagram
-          - url: https://tiktok.com/@brandao4
-            icon: fab fa-openid
-          - url: https://uk.linkedin.com/in/brandon-diau-271b421a9?trk=public_profile_browsemap-profile
-            icon: fab fa-linkedin-in
+team:
+  title: "NUESTRO INCREÍBLE EQUIPO"
+  text: "Dedicado a tu éxito."
+  section: equipo
+  people:
+    - name: "Élie Junior Akobeto"
+      role: "Director"
+      image: assets/img/team/ako.jpg
+      social:
+        - url: https://instagram.com/akojr10
+          icon: fab fa-instagram
+        - url: https://facebook.com/akojr10off
+          icon: fab fa-facebook-f
+        - url: https://uk.linkedin.com/in/%C3%A9lie-junior-akobeto-5b972b95?trk=public_profile_browsemap
+          icon: fab fa-linkedin-in
+    - name: "Brandon Diau"
+      role: "Experto en Fútbol y Redes Sociales"
+      image: assets/img/team/Brandon.jpg
+      social:
+        - url: https://instagram.com/brandao4
+          icon: fab fa-instagram
+        - url: https://tiktok.com/@brandao4
+          icon: fab fa-openid
+        - url: https://uk.linkedin.com/in/brandon-diau-271b421a9?trk=public_profile_browsemap-profile
+          icon: fab fa-linkedin-in
+    - name: "Dev Kumar Parmar"
+      role: "Abogado Internacional de Deportes"
+      image: assets/img/team/Dev.jpg
+      social:
+        - url: https://twitter.com/dkp_official
+          icon: fab fa-twitter
+        - url: https://uk.linkedin.com/in/dev-kumar-parmar-74351314
+          icon: fab fa-linkedin-in
+    - name: "Dr. Daniel Berdejo-del-Fresno"
+      role: "Experto en Fútbol Sala y Ciencias del Deporte"
+      image: assets/img/team/Dani.jpg
+      social:
+        - url: https://instagram.com/simplysport_dbf
+          icon: fab fa-instagram
+        - url: https://www.linkedin.com/in/daniel-berdejo-del-fresno
+          icon: fab fa-linkedin-in
+    - name: "Patrick Whelan"
+      role: "Experto en Baloncesto"
+      image: assets/img/team/Pat.jpg
+      social:
+        - url: https://www.instagram.com/p_whelan1two
+          icon: fab fa-instagram
+        - url: https://x.com/p_whelan1two
+          icon: fab fa-twitter
 
   contact:
     title: "Contáctenos"
