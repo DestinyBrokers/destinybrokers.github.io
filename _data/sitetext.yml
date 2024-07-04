@@ -112,6 +112,14 @@ en: &DEFAULT_EN
             icon: fab fa-openid
           - url: https://uk.linkedin.com/in/brandon-diau-271b421a9?trk=public_profile_browsemap-profile
             icon: fab fa-linkedin-in
+      - name: "Dev Kumar Parmar"
+        role: "International Sports Lawyer"
+        image: assets/img/team/Dev.jpg
+        social:
+          - url: https://twitter.com/dkp_official
+            icon: fab fa-twitter
+          - url: https://uk.linkedin.com/in/dev-kumar-parmar-74351314
+            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
