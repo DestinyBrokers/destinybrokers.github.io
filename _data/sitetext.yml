@@ -126,6 +126,8 @@ en: &DEFAULT_EN
         social:
           - url: https://instagram.com/simplysport_dbf
             icon: fab fa-instagram
+          - url: https://x.com/simplysport_dbf
+            icon: fab fa-twitter
           - url: https://www.linkedin.com/in/daniel-berdejo-del-fresno
             icon: fab fa-linkedin-in
       - name: "Patrick Whelan"
@@ -302,6 +304,8 @@ team:
       social:
         - url: https://instagram.com/simplysport_dbf
           icon: fab fa-instagram
+        - url: https://x.com/simplysport_dbf
+          icon: fab fa-twitter
         - url: https://www.linkedin.com/in/daniel-berdejo-del-fresno
           icon: fab fa-linkedin-in
     - name: "Patrick Whelan"
