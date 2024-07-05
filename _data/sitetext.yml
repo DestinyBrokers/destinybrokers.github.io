@@ -138,6 +138,16 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
           - url: https://x.com/p_whelan1two
             icon: fab fa-twitter
+      - name: "Joel Fearon OLY"
+        role: "Athletics & Speed Expert"
+        image: assets/img/team/Joel.jpg
+        social:
+          - url: https://www.instagram.com/joelfearon6
+            icon: fab fa-instagram
+          - url: https://x.com/joelfearon6
+            icon: fab fa-twitter
+          - url: https://uk.linkedin.com/in/joel-fearon-oly-7054ab193
+            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
@@ -316,6 +326,16 @@ team:
           icon: fab fa-instagram
         - url: https://x.com/p_whelan1two
           icon: fab fa-twitter
+      - name: "Joel Fearon OLY"
+        role: "Experto en Atletismo y Velocidad"
+        image: assets/img/team/Joel.jpg
+        social:
+          - url: https://www.instagram.com/joelfearon6
+            icon: fab fa-instagram
+          - url: https://x.com/joelfearon6
+            icon: fab fa-twitter
+          - url: https://uk.linkedin.com/in/joel-fearon-oly-7054ab193
+            icon: fab fa-linkedin-in
 
   contact:
     title: "Contáctenos"
