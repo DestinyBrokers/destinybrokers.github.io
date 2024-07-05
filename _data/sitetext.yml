@@ -96,7 +96,7 @@ en: &DEFAULT_EN
         role: "Founder & Director"
         image: assets/img/team/ako.jpg
         social:
-          - url: https://instagram.com/akojr10
+          - url: https://instagram.com/akojr10/
             icon: fab fa-instagram
           - url: https://facebook.com/akojr10off
             icon: fab fa-facebook-f
