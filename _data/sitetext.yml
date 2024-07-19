@@ -191,7 +191,7 @@ es: &DEFAULT_ES
     title: Somos Destiny Brokers Group
     text: Dedicados a tu éxito 🌟
     button: Reserva una Consulta
-    buttonlink: "https://calendly.com/destinybrokers/30min"
+    buttonlink: "https://destinybrokers.as.me/"
 
   services:
     title: "Servicios"
