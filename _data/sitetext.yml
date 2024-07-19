@@ -3,7 +3,7 @@ en: &DEFAULT_EN
     title: We're Destiny Brokers Group
     text: Dedicated to your Success 🌟
     button: Book a Consultation
-    buttonlink: "https://calendly.com/destinybrokers"
+    buttonlink: "https://destinybrokers.as.me/"
 
   services:
     title: "Services"
