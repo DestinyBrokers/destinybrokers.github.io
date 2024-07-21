@@ -120,16 +120,24 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://uk.linkedin.com/in/dev-kumar-parmar-74351314
             icon: fab fa-linkedin-in
-      - name: "Dr Daniel Berdejo-del-Fresno"
-        role: "Futsal & Sports Scientist Expert"
-        image: assets/img/team/Dani.jpg
+      - name: "Joel Fearon OLY"
+        role: "Athletics & Speed Expert"
+        image: assets/img/team/Joel.jpg
         social:
-          - url: https://instagram.com/simplysport_dbf
+          - url: https://www.instagram.com/joelfearon6
             icon: fab fa-instagram
-          - url: https://x.com/simplysport_dbf
+          - url: https://x.com/joelfearon6
             icon: fab fa-twitter
-          - url: https://www.linkedin.com/in/daniel-berdejo-del-fresno
+          - url: https://uk.linkedin.com/in/joel-fearon-oly-7054ab193
             icon: fab fa-linkedin-in
+      - name: "Patrick Whelan"
+        role: "Basketball Expert"
+        image: assets/img/team/Pat.jpg
+        social:
+          - url: https://www.instagram.com/p_whelan1two
+            icon: fab fa-instagram
+          - url: https://x.com/p_whelan1two
+            icon: fab fa-twitter
       - name: "David Gold"
         role: "Football Coaching Expert"
         image: assets/img/team/Gold.jpg
@@ -140,23 +148,15 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://uk.linkedin.com/in/david-gold-538b51161
             icon: fab fa-linkedin-in
-      - name: "Patrick Whelan"
-        role: "Basketball Expert"
-        image: assets/img/team/Pat.jpg
+      - name: "Dr Daniel Berdejo-del-Fresno"
+        role: "Futsal & Sports Scientist Expert"
+        image: assets/img/team/Dani.jpg
         social:
-          - url: https://www.instagram.com/p_whelan1two
+          - url: https://instagram.com/simplysport_dbf
             icon: fab fa-instagram
-          - url: https://x.com/p_whelan1two
+          - url: https://x.com/simplysport_dbf
             icon: fab fa-twitter
-      - name: "Joel Fearon OLY"
-        role: "Athletics & Speed Expert"
-        image: assets/img/team/Joel.jpg
-        social:
-          - url: https://www.instagram.com/joelfearon6
-            icon: fab fa-instagram
-          - url: https://x.com/joelfearon6
-            icon: fab fa-twitter
-          - url: https://uk.linkedin.com/in/joel-fearon-oly-7054ab193
+          - url: https://www.linkedin.com/in/daniel-berdejo-del-fresno
             icon: fab fa-linkedin-in
 
   contact:
@@ -318,16 +318,24 @@ team:
           icon: fab fa-twitter
         - url: https://uk.linkedin.com/in/dev-kumar-parmar-74351314
           icon: fab fa-linkedin-in
-    - name: "Dr. Daniel Berdejo-del-Fresno"
-      role: "Experto en Fútbol Sala y Ciencias del Deporte"
-      image: assets/img/team/Dani.jpg
+    - name: "Joel Fearon OLY"
+      role: "Experto en Atletismo y Velocidad"
+      image: assets/img/team/Joel.jpg
       social:
-        - url: https://instagram.com/simplysport_dbf
+        - url: https://www.instagram.com/joelfearon6
           icon: fab fa-instagram
-        - url: https://x.com/simplysport_dbf
+        - url: https://x.com/joelfearon6
           icon: fab fa-twitter
-        - url: https://www.linkedin.com/in/daniel-berdejo-del-fresno
+        - url: https://uk.linkedin.com/in/joel-fearon-oly-7054ab193
           icon: fab fa-linkedin-in
+    - name: "Patrick Whelan"
+      role: "Experto en Baloncesto"
+      image: assets/img/team/Pat.jpg
+      social:
+        - url: https://www.instagram.com/p_whelan1two
+          icon: fab fa-instagram
+        - url: https://x.com/p_whelan1two
+          icon: fab fa-twitter
     - name: "David Gold"
       role: "Experto en Fútbol Coaching"
       image: assets/img/team/Gold.jpg
@@ -338,23 +346,15 @@ team:
           icon: fab fa-twitter
         - url: https://uk.linkedin.com/in/david-gold-538b51161
           icon: fab fa-linkedin-in
-    - name: "Patrick Whelan"
-      role: "Experto en Baloncesto"
-      image: assets/img/team/Pat.jpg
+    - name: "Dr. Daniel Berdejo-del-Fresno"
+      role: "Experto en Fútbol Sala y Ciencias del Deporte"
+      image: assets/img/team/Dani.jpg
       social:
-        - url: https://www.instagram.com/p_whelan1two
+        - url: https://instagram.com/simplysport_dbf
           icon: fab fa-instagram
-        - url: https://x.com/p_whelan1two
+        - url: https://x.com/simplysport_dbf
           icon: fab fa-twitter
-    - name: "Joel Fearon OLY"
-      role: "Experto en Atletismo y Velocidad"
-      image: assets/img/team/Joel.jpg
-      social:
-        - url: https://www.instagram.com/joelfearon6
-          icon: fab fa-instagram
-        - url: https://x.com/joelfearon6
-          icon: fab fa-twitter
-        - url: https://uk.linkedin.com/in/joel-fearon-oly-7054ab193
+        - url: https://www.linkedin.com/in/daniel-berdejo-del-fresno
           icon: fab fa-linkedin-in
 
   contact:
