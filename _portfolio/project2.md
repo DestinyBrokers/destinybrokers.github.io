@@ -1,17 +1,17 @@
 ---
-title: Your Turn Awaits
-subtitle: Be Ready to Take on a Journey to Create Your Own Destiny
-image: assets/img/portfolio/fifa_card.jpg
-alt: Your future success story awaits with Destiny Brokers Group
+title: Troy Perez-Duah
+subtitle: Rising star Perez-Duah signs for Viitorul Pandurii Târgu Jiu
+image: assets/img/portfolio/Perez.jpg
+alt: Rising star Perez-Duah signs for Viitorul Pandurii Târgu Jiu in Romania
 
 caption:
-  title: You Could Be the Next ONE
-  subtitle: Your Journey Starts Here
-  thumbnail: assets/img/portfolio/fifa_card.jpg
+  title: Rising star signs for Viitorul Pandurii Târgu Jiu
+  subtitle: Football
+  thumbnail: assets/img/portfolio/Perez-thumbnail.jpg
 ---
-Your incredible journey begins now! Whether you're dreaming of joining a top football club, becoming a celebrated artist, or achieving unprecedented success in any field, **Destiny Brokers Group** is here to help you every step of the way.
+GOD makes the impossible possible! **Rising star Troy Perez-Duah** was selected from a showcase match orchestrated by Football Expert Brandon Diau and has since embarked on a journey to earn his first professional contract. His talent and dedication were unquestionable, and we are now proud to announce that he has signed with Viitorul Pandurii Târgu Jiu in Romania.
 
 {:.list-inline}
-- Date: TBC
-- Client: Your Turn Awaits
-- Category: Pending
+- Date: July 2024
+- Client: Troy Perez-Duah
+- Category: Football

@@ -1,17 +1,17 @@
-<!-- ---
-title: Lancelot Pollard
-subtitle: Wonderkid Pollard signs for Rangers Football Club
-image: assets/img/portfolio/Pollard.jpg
-alt: Wonderkid Lancelot Pollard's signing at Rangers Football Club in Scotland
+---
+title: Your Turn Awaits
+subtitle: Be Ready to Take on a Journey to Create Your Own Destiny
+image: assets/img/portfolio/fifa_card.jpg
+alt: Your future success story awaits with Destiny Brokers Group
 
 caption:
-  title: Wonderkid signs for Rangers FC
-  subtitle: Football
-  thumbnail: assets/img/portfolio/Pollard-thumbnail.jpg
+  title: You Could Be the Next ONE
+  subtitle: Your Journey Starts Here
+  thumbnail: assets/img/portfolio/fifa_card.jpg
 ---
-With interests from the likes of Manchester United Football Club and Liverpool Football Club, **Wonderkid Lancelot Pollard** put pen to paper with Rangers Football Club in Scotland, having recently played for Aberdeen Football Club.
+Your incredible journey begins now! Whether you're dreaming of joining a top football club, becoming a celebrated artist, or achieving unprecedented success in any field, **Destiny Brokers Group** is here to help you every step of the way.
 
 {:.list-inline}
-- Date: May 2022
-- Client: Lancelot Pollard
-- Category: Football -->
+- Date: TBC
+- Client: Your Turn Awaits
+- Category: Pending
