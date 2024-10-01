@@ -140,6 +140,12 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://uk.linkedin.com/in/joel-fearon-oly-7054ab193
             icon: fab fa-linkedin-in
+      - name: "Steve Kipre"
+        role: "French Football Consultant"
+        image: assets/img/team/Steve.jpg
+        social:
+          - url: https://www.instagram.com/stevekipre
+            icon: fab fa-instagram
       - name: "Dev Kumar Parmar"
         role: "International Sports Lawyer"
         image: assets/img/team/Dev.jpg
@@ -336,6 +342,12 @@ team:
           icon: fab fa-twitter
         - url: https://uk.linkedin.com/in/joel-fearon-oly-7054ab193
           icon: fab fa-linkedin-in
+    - name: "Steve Kipre"
+      role: "Asesor francés de fútbol"
+      image: assets/img/team/Steve.jpg
+      social:
+        - url: https://www.instagram.com/stevekipre
+          icon: fab fa-instagram
 
   contact:
     title: "Contáctenos"
